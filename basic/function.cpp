@@ -34,7 +34,7 @@ int main(){
    int arr[6]={1,2,3,4,5,6};
    
  //  cout<<getsum(arr,5)<<endl;
-    cout<<"sum is: "<<getsum(arr+3,3  )<<endl;
+    cout<<"sum is: "<<getsum(arr+3,3)<<endl;
 
     return 0;
 
